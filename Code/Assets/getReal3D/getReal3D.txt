@@ -1,1 +1,0 @@
-getReal3D plugin version 3.2.5.668.
